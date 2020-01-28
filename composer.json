@@ -1,6 +1,6 @@
 {
-    "name": "evolution-lab/library-project",
-    "description": "Boilerplate code for creating libraries.",
+    "name": "evolution-lab/boilerplate-php-library",
+    "description": "Boilerplate for creating PHP libraries.",
     "type": "library",
     "license": "MIT",
     "authors": [
